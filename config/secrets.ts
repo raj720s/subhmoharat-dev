@@ -1,0 +1,1 @@
+export const BASEURL = process.env.BASEURL || "http://localhost:3500/api";
